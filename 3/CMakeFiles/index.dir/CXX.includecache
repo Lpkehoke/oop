@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/aaMy/lol/b_b/labs/3/src/date.z
+iostream
+-
+
+/home/alex/aaMy/lol/b_b/labs/3/src/index.cpp
+iostream
+-
+string
+-
+fstream
+-
+storage.hpp
+/home/alex/aaMy/lol/b_b/labs/3/src/storage.hpp
+stock.hpp
+/home/alex/aaMy/lol/b_b/labs/3/src/stock.hpp
+date.z
+/home/alex/aaMy/lol/b_b/labs/3/src/date.z
+
+/home/alex/aaMy/lol/b_b/labs/3/src/stock.hpp
+iostream
+-
+cstddef
+-
+string
+-
+vector
+-
+storage.hpp
+/home/alex/aaMy/lol/b_b/labs/3/src/storage.hpp
+
+/home/alex/aaMy/lol/b_b/labs/3/src/storage.hpp
+iostream
+-
+cstddef
+-
+date.z
+/home/alex/aaMy/lol/b_b/labs/3/src/date.z
+

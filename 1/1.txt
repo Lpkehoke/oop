@@ -1,0 +1,10 @@
+hellow			1			1			1
+
+hollo			1			1			1
+
+hellowe			1			1			1
+
+adas			2			2			2
+
+awd			2			2			2
+
