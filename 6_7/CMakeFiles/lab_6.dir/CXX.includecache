@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/aaMy/lol/b_b/labs/6/src/company.cpp
+algorithm
+-
+iostream
+-
+company.h
+/home/alex/aaMy/lol/b_b/labs/6/src/company.h
+
+/home/alex/aaMy/lol/b_b/labs/6/src/company.h
+vector
+-
+iostream
+-
+theme.h
+/home/alex/aaMy/lol/b_b/labs/6/src/theme.h
+
+/home/alex/aaMy/lol/b_b/labs/6/src/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+cstddef
+-
+company.h
+/home/alex/aaMy/lol/b_b/labs/6/src/company.h
+theme.h
+/home/alex/aaMy/lol/b_b/labs/6/src/theme.h
+
+/home/alex/aaMy/lol/b_b/labs/6/src/theme.h
+string
+-
+iostream
+-
+

@@ -7,13 +7,13 @@
 using namespace std;
 
 template <typename T>
-T tryEnter(T& a) {
+void tryEnter(T& a) {
     while (true) {
         cin >> a;
         if (cin.fail()) {
+			cout << "Repeat pls" << endl;
             cin.clear();
             cin.ignore(cin.rdbuf()->in_avail());
-            cout << "Repeat pls" << endl;
         } else {
             break;
         }
@@ -50,6 +50,7 @@ double sumToMin(const vector<double>& a) {
 
 
 int main() {
+	std::ios_base::sync_with_stdio(false);
     cout << "Enter size" << endl;
     size_t size;
     tryEnter(size);

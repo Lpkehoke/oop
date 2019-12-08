@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/alex/aaMy/lol/b_b/labs/4/src/base_storage.cpp
-iostream
--
-cstddef
--
-base_storage.hpp
-/home/alex/aaMy/lol/b_b/labs/4/src/base_storage.hpp
-
 /home/alex/aaMy/lol/b_b/labs/4/src/base_storage.hpp
 iostream
 -
@@ -42,22 +34,6 @@ storage.hpp
 date.hpp
 /home/alex/aaMy/lol/b_b/labs/4/src/date.hpp
 
-/home/alex/aaMy/lol/b_b/labs/4/src/stock.cpp
-iostream
--
-algorithm
--
-vector
--
-cstddef
--
-string
--
-stock.hpp
-/home/alex/aaMy/lol/b_b/labs/4/src/stock.hpp
-storage.hpp
-/home/alex/aaMy/lol/b_b/labs/4/src/storage.hpp
-
 /home/alex/aaMy/lol/b_b/labs/4/src/stock.hpp
 iostream
 -
@@ -66,14 +42,6 @@ cstddef
 string
 -
 vector
--
-storage.hpp
-/home/alex/aaMy/lol/b_b/labs/4/src/storage.hpp
-
-/home/alex/aaMy/lol/b_b/labs/4/src/storage.cpp
-iostream
--
-cstddef
 -
 storage.hpp
 /home/alex/aaMy/lol/b_b/labs/4/src/storage.hpp
@@ -90,14 +58,6 @@ storage1.hpp
 storage2.hpp
 /home/alex/aaMy/lol/b_b/labs/4/src/storage2.hpp
 
-/home/alex/aaMy/lol/b_b/labs/4/src/storage1.cpp
-iostream
--
-cstddef
--
-storage1.hpp
-/home/alex/aaMy/lol/b_b/labs/4/src/storage1.hpp
-
 /home/alex/aaMy/lol/b_b/labs/4/src/storage1.hpp
 iostream
 -
@@ -105,14 +65,6 @@ cstddef
 -
 base_storage.hpp
 /home/alex/aaMy/lol/b_b/labs/4/src/base_storage.hpp
-
-/home/alex/aaMy/lol/b_b/labs/4/src/storage2.cpp
-iostream
--
-cstddef
--
-storage2.hpp
-/home/alex/aaMy/lol/b_b/labs/4/src/storage2.hpp
 
 /home/alex/aaMy/lol/b_b/labs/4/src/storage2.hpp
 iostream

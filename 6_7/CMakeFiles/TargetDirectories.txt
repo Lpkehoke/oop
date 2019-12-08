@@ -1,0 +1,3 @@
+/home/alex/aaMy/lol/b_b/labs/6/CMakeFiles/rebuild_cache.dir
+/home/alex/aaMy/lol/b_b/labs/6/CMakeFiles/lab_6.dir
+/home/alex/aaMy/lol/b_b/labs/6/CMakeFiles/edit_cache.dir

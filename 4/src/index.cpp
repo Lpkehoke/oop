@@ -9,6 +9,7 @@
 const std::string PATH_BD = "1.txt";
 
 int main() {
+	std::ios_base::sync_with_stdio(false);
     Stock a;
 
     int         code;
